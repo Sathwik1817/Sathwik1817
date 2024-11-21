@@ -24,7 +24,7 @@ I’m actively working on projects related to **Machine Learning**, **Cyber Secu
 
 ## Connect with Me 🌐
 
-- [LinkedIn]([https://www.linkedin.com/in/sathwik1817](https://www.linkedin.com/in/sai-sathwik-goud-boguda-4a84ba194))
+- [LinkedIn](https://www.linkedin.com/in/sai-sathwik-goud-boguda-4a84ba194)
 - [Twitter](https://twitter.com/5th_stump)
 - [Email](mailto:sathwikbs139@gmail.com)
 
